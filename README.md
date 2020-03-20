@@ -12,8 +12,6 @@
 
 ### Learining materials
 * Linux Academy «[The AWS Certified SysOps Administrator - Associate (SOA-C01)» course](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01), length 29:48:30 :alarm_clock:
-
-  Course Details
    > The AWS Certified SysOps Administrator - Associate (SOA-C01) is a certification based around administering applications on AWS from an operations viewpoint. Although there are some deployment topics, this certification deals more with decisions we must make in our environments based on information we receive from monitoring, auditing, and any performance feedback we gather.
    This course has been developed to provide you with the requisite knowledge to not only pass the AWS SysOps Administrator certification exam but also gain the hands-on experience required to become a qualified AWS Systems Operator working in a real-world environment.
 * A Cloud Guru: [AWS Certified SysOps Administrator Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
