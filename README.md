@@ -10,7 +10,7 @@
  4. [AWS FAQ](https://aws.amazon.com/faqs/)
 
 ### Learining materials
-* [Linux Academy course](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01), length :alarm_clock: 29:48:30
+* Linux Academy «[The AWS Certified SysOps Administrator - Associate (SOA-C01)» course](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01), length 29:48:30 :alarm_clock:
 
   Course Details
    > The AWS Certified SysOps Administrator - Associate (SOA-C01) is a certification based around administering applications on AWS from an operations viewpoint. Although there are some deployment topics, this certification deals more with decisions we must make in our environments based on information we receive from monitoring, auditing, and any performance feedback we gather.
@@ -25,6 +25,15 @@
 
 ### AWS cheat sheets:
 1. https://tutorialsdojo.com/aws-cheat-sheets/
+
+
+### Books 
+* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of :star: :star: :star: :star: :star: 
+* [AWS Administration Cookbook by Lucas Chan and Rowan Udell](https://www.amazon.com/AWS-SysOps-Cookbook-Practical-environments-ebook/dp/B07YLHJ3Y4)
+* [AWS Administration – The Definitive Guide by Yohan Wadi](https://www.amazon.com/AWS-Administration-Definitive-infrastructure-Services-ebook/dp/B076JGXY1C)
+* [Learning AWS by Amit Shah and Aurobindo Sarkar](https://www.amazon.com/Learning-AWS-responsive-applications-components-ebook/dp/B0771MYVDH)
+* [Amazon Web Services in Action by Andreas Wittig and Michael Wittig](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116)
+
 
 
 ### Personal opinions and reflections
