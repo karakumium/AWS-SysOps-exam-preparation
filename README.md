@@ -19,7 +19,7 @@
 * Youtube [playlist](https://www.youtube.com/playlist?list=PLfdXiRn7u6nGYo-XzF4NnKaeFOuBJWHCP) with [AWS re:Invent](https://aws.amazon.com/new/reinvent/) videos
 * Another one [playlist](https://www.youtube.com/playlist?list=PLLn7PRsPqrpueDJA5ETpqGjBzDZPJ3CNt)
 
-### Resources AWS Sysops Practice Questions:
+### Resources with AWS Sysops practice questions and tests simulators:
 * AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
 * Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
 * [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/) 
@@ -40,3 +40,6 @@
 ### Personal opinions and reflections
 * [Which AWS certification is right for me?](https://info.acloud.guru/resources/which-aws-certification-should-i-take) To explore what certifications are, and what they are not. 
 * [AWS SysOps Certification Feedback September 2019](https://medium.com/@boringvoice/aws-sysops-certification-feedback-august-2019-1282dad23c02)
+
+## Contributing
+If you want to contribute to a project and make it better, your help is very welcome. 
