@@ -16,13 +16,14 @@
   Course Details
    > The AWS Certified SysOps Administrator - Associate (SOA-C01) is a certification based around administering applications on AWS from an operations viewpoint. Although there are some deployment topics, this certification deals more with decisions we must make in our environments based on information we receive from monitoring, auditing, and any performance feedback we gather.
    This course has been developed to provide you with the requisite knowledge to not only pass the AWS SysOps Administrator certification exam but also gain the hands-on experience required to become a qualified AWS Systems Operator working in a real-world environment.
-  
+* A Cloud Guru: [AWS Certified SysOps Administrator Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate)
+* Whizlabs: Online course [AWS Certified SysOps Administrator Associate](https://www.whizlabs.com/aws-sysops-administrator-associate/online-course/)
 * Youtube [playlist](https://www.youtube.com/playlist?list=PLfdXiRn7u6nGYo-XzF4NnKaeFOuBJWHCP) with [AWS re:Invent](https://aws.amazon.com/new/reinvent/) videos
 * Another one [playlist](https://www.youtube.com/playlist?list=PLLn7PRsPqrpueDJA5ETpqGjBzDZPJ3CNt)
 
 ### Resources AWS Sysops Practice Questions:
-* https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview/
-* https://www.whizlabs.com/learn/course/aws-csyopaa-practice-tests
+* AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
+* Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
 * [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/) 
 
 ### AWS cheat sheets:
