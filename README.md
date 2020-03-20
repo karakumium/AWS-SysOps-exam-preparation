@@ -8,6 +8,7 @@
 * [Official exam guide (ver. 1.4)](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS_Certified_SysOps_Associate-Exam_Guide_EN_1.4.pdf)
 * [Sample exam questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate-Sample-Questions-v1.5_FINAL.pdf)
 * [AWS FAQ](https://aws.amazon.com/faqs/)
+* [AWS Certified SysOps Administrator-AssociateLevel Exam Blueprint](https://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_sysops_associate_blueprint.pdf)
 
 ### Learining materials
 * Linux Academy «[The AWS Certified SysOps Administrator - Associate (SOA-C01)» course](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01), length 29:48:30 :alarm_clock:
@@ -17,6 +18,7 @@
    This course has been developed to provide you with the requisite knowledge to not only pass the AWS SysOps Administrator certification exam but also gain the hands-on experience required to become a qualified AWS Systems Operator working in a real-world environment.
   
 * Youtube [playlist](https://www.youtube.com/playlist?list=PLfdXiRn7u6nGYo-XzF4NnKaeFOuBJWHCP) with [AWS re:Invent](https://aws.amazon.com/new/reinvent/) videos
+* Another one [playlist](https://www.youtube.com/playlist?list=PLLn7PRsPqrpueDJA5ETpqGjBzDZPJ3CNt)
 
 ### Resources AWS Sysops Practice Questions:
 * https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview/
