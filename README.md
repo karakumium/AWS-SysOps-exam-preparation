@@ -2,14 +2,14 @@
 
 ###### Links to some materials that can be useful for preparing from scratch 
 
-* Official AWS information: 
+### Official AWS information: 
 
  1. [AWS general exam information](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
  2. [Official exam guide (ver. 1.4)](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS_Certified_SysOps_Associate-Exam_Guide_EN_1.4.pdf)
  3. [Sample exam questions](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate-Sample-Questions-v1.5_FINAL.pdf)
  4. [AWS FAQ](https://aws.amazon.com/faqs/)
 
-
+### Learining material
 * [Linux Academy course](https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01), length :alarm_clock: 29:48:30
 
   Course Details
@@ -18,15 +18,15 @@
   
 * Youtube [playlist](https://www.youtube.com/playlist?list=PLfdXiRn7u6nGYo-XzF4NnKaeFOuBJWHCP) with AWS re:Invent videos
 
-* Resources AWS Sysops Practice Questions:
+### Resources AWS Sysops Practice Questions:
 1. https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview/
 2. https://www.whizlabs.com/learn/course/aws-csyopaa-practice-tests
 3. [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/) 
 
-* AWS cheat sheets:
+### AWS cheat sheets:
 1. https://tutorialsdojo.com/aws-cheat-sheets/
 
 
-Perosnal opinions and reflections
+### Personal opinions and reflections
 1. [Which AWS certification is right for me?](https://info.acloud.guru/resources/which-aws-certification-should-i-take) To explore what certifications are, and what they are not. 
-2. 
+2. [AWS SysOps Certification Feedback September 2019(]https://medium.com/@boringvoice/aws-sysops-certification-feedback-august-2019-1282dad23c02)
