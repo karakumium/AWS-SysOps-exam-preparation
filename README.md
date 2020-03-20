@@ -27,8 +27,8 @@
 1. https://tutorialsdojo.com/aws-cheat-sheets/
 
 
-### Books 
-* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of :star: :star: :star: :star: :star: 
+### Books (links to Amazon store)
+* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of 5 :star: 
 * [AWS Administration Cookbook by Lucas Chan and Rowan Udell](https://www.amazon.com/AWS-SysOps-Cookbook-Practical-environments-ebook/dp/B07YLHJ3Y4)
 * [AWS Administration – The Definitive Guide by Yohan Wadi](https://www.amazon.com/AWS-Administration-Definitive-infrastructure-Services-ebook/dp/B076JGXY1C)
 * [Learning AWS by Amit Shah and Aurobindo Sarkar](https://www.amazon.com/Learning-AWS-responsive-applications-components-ebook/dp/B0771MYVDH)
