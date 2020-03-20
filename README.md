@@ -29,4 +29,4 @@
 
 ### Personal opinions and reflections
 1. [Which AWS certification is right for me?](https://info.acloud.guru/resources/which-aws-certification-should-i-take) To explore what certifications are, and what they are not. 
-2. [AWS SysOps Certification Feedback September 2019(]https://medium.com/@boringvoice/aws-sysops-certification-feedback-august-2019-1282dad23c02)
+2. [AWS SysOps Certification Feedback September 2019](https://medium.com/@boringvoice/aws-sysops-certification-feedback-august-2019-1282dad23c02)
