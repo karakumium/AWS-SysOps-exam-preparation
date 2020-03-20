@@ -1,6 +1,6 @@
-# AWS Certified SysOps Administrator exam preparation materials (SOA-C01)
+# AWS Certified SysOps Administrator exam (SOA-C01) preparation links and materials 
 
-###### Some materials that can be useful for preparing from scratch 
+###### Links to some materials that can be useful for preparing from scratch 
 
 * Official AWS information: 
 
