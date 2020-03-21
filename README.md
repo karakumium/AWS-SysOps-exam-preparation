@@ -1,8 +1,8 @@
-# AWS Certified SysOps Administrator exam (SOA-C01) preparation links and materials 
+# AWS Certified SysOps Administrator exam (SOA-C01) preparation links and materials
 
-###### Links to some materials that can be useful for preparing from scratch 
+###### Links to some materials that can be useful for preparing from scratch
 
-### Official AWS information: 
+### Official AWS information!
 
 * [AWS general exam information](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 * [Official exam guide (ver. 1.4)](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS_Certified_SysOps_Associate-Exam_Guide_EN_1.4.pdf)
@@ -22,14 +22,14 @@
 ### Resources with AWS Sysops practice questions and tests simulators:
 * AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
 * Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
-* [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/) 
+* [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/)
 
 ### AWS cheat sheets:
 * https://tutorialsdojo.com/aws-cheat-sheets/
 
 
 ### Books (links to Amazon store)
-* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of 5 :star: 
+* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of 5 :star:
 * [AWS Administration Cookbook by Lucas Chan and Rowan Udell](https://www.amazon.com/AWS-SysOps-Cookbook-Practical-environments-ebook/dp/B07YLHJ3Y4)
 * [AWS Administration – The Definitive Guide by Yohan Wadi](https://www.amazon.com/AWS-Administration-Definitive-infrastructure-Services-ebook/dp/B076JGXY1C)
 * [Learning AWS by Amit Shah and Aurobindo Sarkar](https://www.amazon.com/Learning-AWS-responsive-applications-components-ebook/dp/B0771MYVDH)
@@ -38,8 +38,8 @@
 
 
 ### Personal opinions and reflections
-* [Which AWS certification is right for me?](https://info.acloud.guru/resources/which-aws-certification-should-i-take) To explore what certifications are, and what they are not. 
+* [Which AWS certification is right for me?](https://info.acloud.guru/resources/which-aws-certification-should-i-take) To explore what certifications are, and what they are not.
 * [AWS SysOps Certification Feedback September 2019](https://medium.com/@boringvoice/aws-sysops-certification-feedback-august-2019-1282dad23c02)
 
 ## Contributing
-If you want to contribute to a project and make it better, your help is very welcome. 
+If you want to contribute to a project and make it better, your help is very welcome.
