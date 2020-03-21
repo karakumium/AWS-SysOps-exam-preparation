@@ -2,7 +2,7 @@
 
 ###### Links to some materials that can be useful for preparing from scratch
 
-### Official AWS information!
+### Official AWS information!!
 
 * [AWS general exam information](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 * [Official exam guide (ver. 1.4)](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS_Certified_SysOps_Associate-Exam_Guide_EN_1.4.pdf)
