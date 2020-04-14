@@ -21,6 +21,7 @@
 
 ### Resources with AWS Sysops practice questions and tests simulators:
 * AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
+* [AWS Certified Solution Architect Practice Quiz from LinuxAcademy](http://quiz.linuxacademy.com/)
 * Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
 * [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/)
 
