@@ -24,7 +24,7 @@
 * [AWS Certified Solution Architect Practice Quiz from LinuxAcademy](http://quiz.linuxacademy.com/)
 * Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
 * [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/)
-
+* [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
 ### AWS cheat sheets:
 * https://tutorialsdojo.com/aws-cheat-sheets/
 
