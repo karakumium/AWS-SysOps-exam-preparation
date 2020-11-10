@@ -19,6 +19,9 @@
 * Youtube [playlist](https://www.youtube.com/playlist?list=PLfdXiRn7u6nGYo-XzF4NnKaeFOuBJWHCP) with [AWS re:Invent](https://aws.amazon.com/new/reinvent/) videos
 * Another one [playlist](https://www.youtube.com/playlist?list=PLLn7PRsPqrpueDJA5ETpqGjBzDZPJ3CNt)
 
+### Labs
+* [Stelligent's onboarding program for AWS engineers](https://github.com/stelligent/stelligent-u). Includes step-by-step labs  
+
 ### Resources with AWS Sysops practice questions and tests simulators:
 * AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
 * [AWS Certified Solution Architect Practice Quiz from LinuxAcademy](http://quiz.linuxacademy.com/)
