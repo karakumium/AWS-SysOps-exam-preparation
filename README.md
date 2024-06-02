@@ -23,11 +23,11 @@
 * [Stelligent's onboarding program for AWS engineers](https://github.com/stelligent/stelligent-u). Includes step-by-step labs  
 
 ### Resources with AWS Sysops practice questions and tests simulators:
-* AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/aws-sysops-associate-guarantee-part-overview)
-* [AWS Certified Solution Architect Practice Quiz from LinuxAcademy](http://quiz.linuxacademy.com/)
+* AWSlagi: AWS Certified SysOps Administrator Associate [Exam Questions](https://www.awslagi.com/course/aws-certified-sysops-administrator-associate-soa-c02-practice-exam/)
 * Whizlabs: (Practice Tests based on AWS Certified SysOps Administrator 2019 Latest Exam](https://www.whizlabs.com/aws-sysops-administrator-associate/practice-tests]
-* [Jon Bonso Exam training set](https://www.udemy.com/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/)
+* [Udemy AWS Certified SysOps Administrator Associate Practice Exams by Jon Bonso](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-practice-exams-soa-c02/)
 * [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
+
 ### AWS cheat sheets:
 * https://tutorialsdojo.com/aws-cheat-sheets/
 
