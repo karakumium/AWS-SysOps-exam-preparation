@@ -33,11 +33,11 @@
 
 
 ### Books (links to Amazon store)
-* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating 4.3 out of 5 :star:
-* [AWS Administration Cookbook by Lucas Chan and Rowan Udell](https://www.amazon.com/AWS-SysOps-Cookbook-Practical-environments-ebook/dp/B07YLHJ3Y4)
+* [AWS Certified SysOps Administrator Official Study Guide: Associate Exam by Stephen Cole, Gareth Digby, Steve Friedberg, Chris Fitch, Michael Roth, Jerry Rhoads, Blaine Sundrud, and Shaun Qualheim](https://www.amazon.com/Certified-SysOps-Administrator-Official-Study/dp/1119377420/) Rating: 4.4 out of 5 :star:
+* [AWS Administration Cookbook by Lucas Chan and Rowan Udell](https://www.amazon.com/AWS-SysOps-Cookbook-Practical-environments-ebook/dp/B07YLHJ3Y4) Rating: 3.8 out of 5 :star:
 * [AWS Administration – The Definitive Guide by Yohan Wadi](https://www.amazon.com/AWS-Administration-Definitive-infrastructure-Services-ebook/dp/B076JGXY1C)
-* [Learning AWS by Amit Shah and Aurobindo Sarkar](https://www.amazon.com/Learning-AWS-responsive-applications-components-ebook/dp/B0771MYVDH)
-* [Amazon Web Services in Action by Andreas Wittig and Michael Wittig](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116)
+* [Learning AWS by Amit Shah and Aurobindo Sarkar](https://www.amazon.com/Learning-AWS-responsive-applications-components-ebook/dp/B0771MYVDH) Rating: 4.2 out of 5 :star:
+* [Amazon Web Services in Action by Andreas Wittig and Michael Wittig](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116) Rating: 4.4 out of 5 :star:
 
 
 
